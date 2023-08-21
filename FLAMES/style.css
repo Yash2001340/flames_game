@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display');
+body{
+    font-family: 'Ubuntu', sans-serif;
+}
+.center{
+    text-align:center;
+}
+.background-img{
+    background: url(fire-51.gif);
+}
+.container{
+   
+    height: 258px;
+    width: 368px;
+    margin: auto;
+    border: 3px solid red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border-radius:30%;
+}
+label{
+    cursor:pointer;
+    color:purple;
+    font-size: 20px;
+}
+.inputtext input{
+    border-radius:5%;
+}
+.generate{
+    text-align: center;
+    margin:12px 0px;
+    font-size: 24px;
+    border-radius: 2%;
+    cursor:pointer;
+}
+.generate button{
+    cursor:pointer;
+}
