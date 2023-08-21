@@ -7,4 +7,4 @@ A-ATTRACTION
 M-MARRIAGE
 E-ENEMY
 S-SIBLINGS
-It is a small javascript game hope you will enjoy
+It is a small javascript game I hope you will enjoy
